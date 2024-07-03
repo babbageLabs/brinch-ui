@@ -5,7 +5,7 @@ npm-shrinkwrap.json
 package-lock.json
 clazzes-maven/target
 copy-shield.sh
-dist/w2ui-*.tgz
+dist/*
 .DS_Store
 *.txt
 .idea
